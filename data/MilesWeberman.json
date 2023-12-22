@@ -1,0 +1,12 @@
+{
+  "name": "Miles Weberman",
+  "bio": "Recent graduate in Mathematics and Computer Science from McGill University | Aspiring data scientist"
+  "links": [
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: connect with me",
+      "url": "https://www.linkedin.com/in/miles-weberman/",
+      "icon": "FaLink"
+    }
+  ]
+}
